@@ -107,6 +107,7 @@ color: rgb(245 36 36 / 80%);
   .bars
   {
       display: block;
+        margin-right: 20px;
   }
 }
 
