@@ -109,6 +109,10 @@ color: rgb(245 36 36 / 80%);
       display: block;
         margin-right: 20px;
   }
+   h1
+  {
+      font-size: 23px;
+  }
 }
 
 @media  (max-width: 800px)
